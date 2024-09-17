@@ -3,6 +3,10 @@
 ## Objective
 The Active Directory Basics project aimed to demonstrate the different tools within Windows Active Directory that were utilized to manage permissions, authenticate users, and authorize users. This hands-on experience was designed to not only deepen understanding of Windows Active Directory but also understand the basic concepts of Remote Desktop Protocol (RDP).
 
+### Content
+- Deleting Extra OUs & Users
+- Delegating Controls
+
 ### Skills Learned
 - Enhanced knowledge of Active Directory concepts and tools.
 - Utilizing Remote Desktop Protocol to verify Active Directory adjustments. 
@@ -12,7 +16,7 @@ The Active Directory Basics project aimed to demonstrate the different tools wit
 - Windows Active Directory to perform changes of permission and users' access.
 - Remote Desktop Protocol (RDP) to examine if changes made in Active Directory were correctly executed.
 
-##Scenario
+## Scenario
 You'll assume the role of the new IT admin at THM Inc. We have been asked to review the current domain "THM.local" and do some additional configurations. You will have administrative credentials over a pre-configured Domain Controller (DC) to do the tasks. Login to the Administrator's account using the following credentials: 
 - Username: Administrator
 - Passowrd: Password321
